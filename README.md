@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [CartToGo](https://github.com/GP2022KSU/2022-GP1-04)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
