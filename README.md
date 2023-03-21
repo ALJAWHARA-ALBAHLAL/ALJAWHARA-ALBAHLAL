@@ -2,8 +2,8 @@
 <h3 align="center">Fresh Graduate IT - Cyber Security student at KSU</h3>
 
 🔭 I’m currently working on:
-- [Monasabah](https://github.com/aljawhara-albahlal/Monasabah.git),
-- https://github.com/monasbah/Monasabah-App.git
+- [Monasabah](https://github.com/monasbah/Monasabah-App.git),
+
 
 📌 My Projects:
 - [PetsCare](https://github.com/ReemaAlzaid/PetCare.git),
