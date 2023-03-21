@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aljawhara Albahlal</h1>
-<h3 align="center">Senior IT Cyber Security student at KSU</h3>
+<h3 align="center">Fresh Graduate IT - Cyber Security student at KSU</h3>
 
 🔭 I’m currently working on:
--  [CartToGo](https://github.com/GP2022KSU/2022-GP1-04), 
-- [ICES](https://github.com/ShathaAldosari01/ices2023.git),
 - [Monasabah](https://github.com/aljawhara-albahlal/Monasabah.git)
+
+📌 My Projects:
+- [PetsCare](https://github.com/ReemaAlzaid/PetCare.git),
+- [SmartHikerBackpacking](),
+- [AMealforYou](),
+- [CartToGo](https://github.com/GP2022KSU/2022-GP1-04),
+- [ICES](https://github.com/ShathaAldosari01/ices2023.git),
 
 
 <p align="left">
