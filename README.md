@@ -10,7 +10,7 @@
 - [SmartHikerBackpacking](https://github.com/ALJAWHARA-ALBAHLAL/SmartHikerBackpacking.git),
 - [DriveWithUs-Frontend](https://github.com/ALJAWHARA-ALBAHLAL/DriveWithUs-Front-end-WebApp.git),
 - [AMealforYou](https://github.com/ALJAWHARA-ALBAHLAL/AMealforYou.git),
-- [ICES-Flutter](https://github.com/ShathaAldosari01/ices2023.git),
+- [ICES](https://github.com/ShathaAldosari01/ices2023.git),
 - [CartToGo](https://github.com/GP2022KSU/2022-GP1-04)
 - [CartToGo Figma](https://www.figma.com/file/XHHkuauhd4z6AeSkopReHk/CartToGo?node-id=0%3A1&t=q4hak67wi59xyr8n-1)
 
