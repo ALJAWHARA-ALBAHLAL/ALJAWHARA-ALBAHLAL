@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aljawhara Albahlal</h1>
-<h3 align="center">IT Fresh Graduate - Cyber Security at KSU, Software Developer Trainee at NCGR </h3>
+<h3 align="center">IT Fresh Graduate - Cyber Security at KSU</h3>
 <h3 align="center"> Software Developer - UX/UI Designer </h3>
 
 🔭 I’m currently working on:
