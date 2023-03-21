@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aljawhara Albahlal</h1>
 <h3 align="center">Fresh Graduate IT - Cyber Security student at KSU</h3>
+<h3 align="center"> Software Developer - UX/UI Designer </h3>
 
 🔭 I’m currently working on:
-- [Monasabah](https://github.com/monasbah/Monasabah-App.git),
-
+- [Comming Soon! Private (Monasabah)](https://github.com/monasbah/Monasabah-App.git),
 
 📌 My Projects:
 - [PetsCare](https://github.com/ReemaAlzaid/PetCare.git),
@@ -11,6 +11,7 @@
 - [AMealforYou](https://github.com/ALJAWHARA-ALBAHLAL/AMealforYou.git),
 - [ICES](https://github.com/ShathaAldosari01/ices2023.git),
 - [CartToGo](https://github.com/GP2022KSU/2022-GP1-04)
+- [Figma](https://www.figma.com/file/XHHkuauhd4z6AeSkopReHk/CartToGo?node-id=0%3A1&t=q4hak67wi59xyr8n-1),
 
 <p align="left">
 </p>
